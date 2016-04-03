@@ -1,0 +1,20 @@
+C:\Users\blue\AppData\Local\Temporary Projects\2016040201 cadetVbHelloWorld\bin\Debug\2016040201 cadetVbHelloWorld.exe
+C:\Users\blue\AppData\Local\Temporary Projects\2016040201 cadetVbHelloWorld\bin\Debug\2016040201 cadetVbHelloWorld.pdb
+C:\Users\blue\AppData\Local\Temporary Projects\2016040201 cadetVbHelloWorld\bin\Debug\2016040201 cadetVbHelloWorld.xml
+C:\Users\blue\AppData\Local\Temporary Projects\2016040201 cadetVbHelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\blue\AppData\Local\Temporary Projects\2016040201 cadetVbHelloWorld\obj\Debug\_2016040201_cadetVbHelloWorld.Resources.resources
+C:\Users\blue\AppData\Local\Temporary Projects\2016040201 cadetVbHelloWorld\obj\Debug\2016040201 cadetVbHelloWorld.vbproj.GenerateResource.Cache
+C:\Users\blue\AppData\Local\Temporary Projects\2016040201 cadetVbHelloWorld\obj\Debug\2016040201 cadetVbHelloWorld.exe
+C:\Users\blue\AppData\Local\Temporary Projects\2016040201 cadetVbHelloWorld\obj\Debug\2016040201 cadetVbHelloWorld.xml
+C:\Users\blue\AppData\Local\Temporary Projects\2016040201 cadetVbHelloWorld\obj\Debug\2016040201 cadetVbHelloWorld.pdb
+C:\Users\blue\AppData\Local\Temporary Projects\2016040201 cadetVbHelloWorld\obj\Debug\_2016040201_cadetVbHelloWorld.frmHello.resources
+C:\Users\blue\Documents\Visual Studio 2008\Projects\2016040201 cadetVbHelloWorld\2016040201 cadetVbHelloWorld\obj\Debug\2016040201 cadetVbHelloWorld.exe
+C:\Users\blue\Documents\Visual Studio 2008\Projects\2016040201 cadetVbHelloWorld\2016040201 cadetVbHelloWorld\obj\Debug\2016040201 cadetVbHelloWorld.xml
+C:\Users\blue\Documents\Visual Studio 2008\Projects\2016040201 cadetVbHelloWorld\2016040201 cadetVbHelloWorld\obj\Debug\2016040201 cadetVbHelloWorld.pdb
+C:\Users\blue\Documents\Visual Studio 2008\Projects\2016040201 cadetVbHelloWorld\2016040201 cadetVbHelloWorld\bin\Debug\2016040201 cadetVbHelloWorld.exe
+C:\Users\blue\Documents\Visual Studio 2008\Projects\2016040201 cadetVbHelloWorld\2016040201 cadetVbHelloWorld\bin\Debug\2016040201 cadetVbHelloWorld.pdb
+C:\Users\blue\Documents\Visual Studio 2008\Projects\2016040201 cadetVbHelloWorld\2016040201 cadetVbHelloWorld\bin\Debug\2016040201 cadetVbHelloWorld.xml
+C:\Users\blue\Documents\Visual Studio 2008\Projects\2016040201 cadetVbHelloWorld\2016040201 cadetVbHelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\blue\Documents\Visual Studio 2008\Projects\2016040201 cadetVbHelloWorld\2016040201 cadetVbHelloWorld\obj\Debug\_2016040201_cadetVbHelloWorld.frmHello.resources
+C:\Users\blue\Documents\Visual Studio 2008\Projects\2016040201 cadetVbHelloWorld\2016040201 cadetVbHelloWorld\obj\Debug\_2016040201_cadetVbHelloWorld.Resources.resources
+C:\Users\blue\Documents\Visual Studio 2008\Projects\2016040201 cadetVbHelloWorld\2016040201 cadetVbHelloWorld\obj\Debug\2016040201 cadetVbHelloWorld.vbproj.GenerateResource.Cache
